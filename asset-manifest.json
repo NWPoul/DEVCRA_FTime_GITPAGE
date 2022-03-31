@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/DEVCRA_FTime_GITPAGE/static/css/main.c67a2266.chunk.css",
-    "main.js": "/DEVCRA_FTime_GITPAGE/static/js/main.161f59ea.chunk.js",
-    "main.js.map": "/DEVCRA_FTime_GITPAGE/static/js/main.161f59ea.chunk.js.map",
+    "main.css": "/DEVCRA_FTime_GITPAGE/static/css/main.0d98afcd.chunk.css",
+    "main.js": "/DEVCRA_FTime_GITPAGE/static/js/main.465dea31.chunk.js",
+    "main.js.map": "/DEVCRA_FTime_GITPAGE/static/js/main.465dea31.chunk.js.map",
     "runtime-main.js": "/DEVCRA_FTime_GITPAGE/static/js/runtime-main.1c49b8ae.js",
     "runtime-main.js.map": "/DEVCRA_FTime_GITPAGE/static/js/runtime-main.1c49b8ae.js.map",
     "static/js/2.3b0ff565.chunk.js": "/DEVCRA_FTime_GITPAGE/static/js/2.3b0ff565.chunk.js",
     "static/js/2.3b0ff565.chunk.js.map": "/DEVCRA_FTime_GITPAGE/static/js/2.3b0ff565.chunk.js.map",
     "index.html": "/DEVCRA_FTime_GITPAGE/index.html",
-    "static/css/main.c67a2266.chunk.css.map": "/DEVCRA_FTime_GITPAGE/static/css/main.c67a2266.chunk.css.map",
+    "static/css/main.0d98afcd.chunk.css.map": "/DEVCRA_FTime_GITPAGE/static/css/main.0d98afcd.chunk.css.map",
     "static/js/2.3b0ff565.chunk.js.LICENSE.txt": "/DEVCRA_FTime_GITPAGE/static/js/2.3b0ff565.chunk.js.LICENSE.txt",
-    "static/js/main.161f59ea.chunk.js.LICENSE.txt": "/DEVCRA_FTime_GITPAGE/static/js/main.161f59ea.chunk.js.LICENSE.txt"
+    "static/js/main.465dea31.chunk.js.LICENSE.txt": "/DEVCRA_FTime_GITPAGE/static/js/main.465dea31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c49b8ae.js",
     "static/js/2.3b0ff565.chunk.js",
-    "static/css/main.c67a2266.chunk.css",
-    "static/js/main.161f59ea.chunk.js"
+    "static/css/main.0d98afcd.chunk.css",
+    "static/js/main.465dea31.chunk.js"
   ]
 }
