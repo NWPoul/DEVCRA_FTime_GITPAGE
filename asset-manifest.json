@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DEVCRA_FTime_GITPAGE/static/css/main.1e2e81c1.chunk.css",
+    "main.css": "/DEVCRA_FTime_GITPAGE/static/css/main.2c3ab0d6.chunk.css",
     "main.js": "/DEVCRA_FTime_GITPAGE/static/js/main.cdd685c3.chunk.js",
     "main.js.map": "/DEVCRA_FTime_GITPAGE/static/js/main.cdd685c3.chunk.js.map",
     "runtime-main.js": "/DEVCRA_FTime_GITPAGE/static/js/runtime-main.1c49b8ae.js",
@@ -8,14 +8,14 @@
     "static/js/2.99e58d1b.chunk.js": "/DEVCRA_FTime_GITPAGE/static/js/2.99e58d1b.chunk.js",
     "static/js/2.99e58d1b.chunk.js.map": "/DEVCRA_FTime_GITPAGE/static/js/2.99e58d1b.chunk.js.map",
     "index.html": "/DEVCRA_FTime_GITPAGE/index.html",
-    "static/css/main.1e2e81c1.chunk.css.map": "/DEVCRA_FTime_GITPAGE/static/css/main.1e2e81c1.chunk.css.map",
+    "static/css/main.2c3ab0d6.chunk.css.map": "/DEVCRA_FTime_GITPAGE/static/css/main.2c3ab0d6.chunk.css.map",
     "static/js/2.99e58d1b.chunk.js.LICENSE.txt": "/DEVCRA_FTime_GITPAGE/static/js/2.99e58d1b.chunk.js.LICENSE.txt",
     "static/js/main.cdd685c3.chunk.js.LICENSE.txt": "/DEVCRA_FTime_GITPAGE/static/js/main.cdd685c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c49b8ae.js",
     "static/js/2.99e58d1b.chunk.js",
-    "static/css/main.1e2e81c1.chunk.css",
+    "static/css/main.2c3ab0d6.chunk.css",
     "static/js/main.cdd685c3.chunk.js"
   ]
 }
