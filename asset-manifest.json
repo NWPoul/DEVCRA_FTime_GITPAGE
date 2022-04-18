@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DEVCRA_FTime_GITPAGE/static/css/main.f6097d25.chunk.css",
-    "main.js": "/DEVCRA_FTime_GITPAGE/static/js/main.be318204.chunk.js",
-    "main.js.map": "/DEVCRA_FTime_GITPAGE/static/js/main.be318204.chunk.js.map",
+    "main.js": "/DEVCRA_FTime_GITPAGE/static/js/main.c8c1a7be.chunk.js",
+    "main.js.map": "/DEVCRA_FTime_GITPAGE/static/js/main.c8c1a7be.chunk.js.map",
     "runtime-main.js": "/DEVCRA_FTime_GITPAGE/static/js/runtime-main.1c49b8ae.js",
     "runtime-main.js.map": "/DEVCRA_FTime_GITPAGE/static/js/runtime-main.1c49b8ae.js.map",
     "static/js/2.fac0dbf4.chunk.js": "/DEVCRA_FTime_GITPAGE/static/js/2.fac0dbf4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1c49b8ae.js",
     "static/js/2.fac0dbf4.chunk.js",
     "static/css/main.f6097d25.chunk.css",
-    "static/js/main.be318204.chunk.js"
+    "static/js/main.c8c1a7be.chunk.js"
   ]
 }
